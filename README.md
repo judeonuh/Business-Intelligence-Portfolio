@@ -1,4 +1,4 @@
-# Business-Intelligence-Portfolio
+# Business-Intelligence-Projects
 ___
 
 ## About this Repository
